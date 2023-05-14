@@ -4,7 +4,7 @@ RFID Reader using Arduino &amp; Python
 ## How to test?
 
 - Add Id of the valid card in the `card_store.txt` file
-- Assemble your setup (Arduino board, Buzzer, LEDs and PCD
+- Assemble your setup
 - Test out valid & invalid cards
 
 
